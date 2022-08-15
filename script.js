@@ -7,7 +7,7 @@ const personalMovieDB = {
   genres: [],
   privat: false
  };
-
+ let a = 'Cool';
 const  a = prompt('Один из просмотренных фильмов?', ''),
        b = prompt('На сколько оцените его?', ''),
        c = prompt('Один из просмотренных фильмов?', ''),
